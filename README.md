@@ -18,6 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advve&layout=compact)
 
-![Advve's github stats](https://github-readme-stats.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=onedark)
+![Advve's github stats](https://github-readme-stats.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=default)
 
 </details>
