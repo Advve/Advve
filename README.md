@@ -21,3 +21,5 @@
 ![Advve's github stats](https://github-readme-stats.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=panda)
 
 </details>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
