@@ -1,4 +1,4 @@
-### Hi there ~ 👋
+### Hi there ~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 ![](https://komarev.com/ghpvc/?username=Advve&color=23a393)
 
 <!--START_SECTION:badges-->
