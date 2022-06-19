@@ -1,4 +1,4 @@
-### Hi there ~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="300px" alt="hi">
+### Hi there ~ 👋
 ![](https://komarev.com/ghpvc/?username=Advve&color=23a393)
 
 <!--START_SECTION:badges-->
