@@ -7,7 +7,7 @@
 <!--END_SECTION:badges-->
 <br>
 <a href="https://www.scrum-institute.org/badges/88179722657427" title="Scrum Team Member Accredited Certification™">
-  <img src="https://www.scrum-institute.org/badges/STMAC.png" alt="Scrum Team Member Accredited Certification™" width=250>
+  <img src="https://www.scrum-institute.org/badges/STMAC.png" alt="Scrum Team Member Accredited Certification™" width=300>
 </a>
 <!--
 - 🔭 I’m currently working on ...
