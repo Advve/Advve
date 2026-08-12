@@ -23,8 +23,8 @@
 <summary>⚡️ More about my coding...</summary>
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advve&layout=compact&theme=panda)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Advve&layout=compact&theme=panda)
 
-![Advve's github stats](https://github-readme-stats.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=panda)
+![Advve's github stats](https://github-stats-extended.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=panda)
 
 </details>
