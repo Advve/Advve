@@ -1,15 +1,15 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=170&section=header&text=Hi,%20I'm%20Dawid&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Dawid" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,50:5b2a86,100:1f8fb0&height=170&section=header&text=Hi,%20I'm%20Dawid&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Dawid" width="100%">
 </p>
 
 <!-- Typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=460&lines=Sysadmin+%26+IT+support;Godot+game+developer;Discord+bot+builder;Writing+helper+software+%26+tools" alt="Typing tagline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=E05A9C&center=true&vCenter=true&width=460&lines=Sysadmin+%26+IT+support;Godot+game+developer;Discord+bot+builder;Writing+helper+software+%26+tools" alt="Typing tagline">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Advve&color=7c3aed&style=flat-square&label=profile+views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Advve&color=8e3a8f&style=flat-square&label=profile+views" alt="Profile views">
 </p>
 
 <br>
@@ -48,15 +48,15 @@
 <summary>⚡ More about my coding...</summary>
 <br>
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=60a5fa" alt="GitHub stats" height="160">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Advve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top languages" height="160">
+  <img src="https://github-stats-extended.vercel.app/api?username=Advve&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05a9c&icon_color=3fb6d3&text_color=c9d1d9" alt="GitHub stats" height="160">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Advve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e05a9c&text_color=c9d1d9" alt="Top languages" height="160">
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Advve&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=60a5fa" alt="GitHub streak" height="160">
+  <img src="https://streak-stats.demolab.com?user=Advve&theme=tokyonight&hide_border=true&background=0d1117&ring=8e3a8f&fire=e05a9c&currStreakLabel=e05a9c&currStreakNum=3fb6d3&sideNums=3fb6d3&stroke=5b2a86" alt="GitHub streak" height="160">
 </p>
 </details>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:2563eb&height=90&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f8fb0,50:5b2a86,100:c2185b&height=90&section=footer" alt="" width="100%">
 </p>
